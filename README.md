@@ -1,0 +1,1 @@
+# Digrama-entidade-samp-storage
